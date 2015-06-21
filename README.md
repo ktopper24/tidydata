@@ -22,7 +22,7 @@ The data set is then melted and the subject ID and avtivity ID are given as iden
 rest of the columns (which are each of the measurements) are specified as variables.
 
 The data is then cast to a new data frame where the mean is appplied to all variables based on 
-both the subject ID dand activity ID.
+both the subject ID and activity ID.
 
 Finally, the tidy data frame is written to a text file. 
 
